@@ -1,4 +1,4 @@
-# 🌸 Iris Flower Classification Using Machine Learning
+# Iris Flower Classification Using Machine Learning
 
 ## 📌 Project Overview
 
@@ -69,9 +69,9 @@ https://scikit-learn.org/stable/auto_examples/datasets/plot_iris_dataset.html
 
 ## 📷 Project Screenshots
 ### Validation & Test Accuracy
-![Accuracy]()
+![Accuracy](accuracy.png)
 ### Sample Predictions 
-![Sample Predictions]()
+![Sample Predictions](Sample_Predictions.png)
 
 
 
@@ -86,21 +86,16 @@ https://scikit-learn.org/stable/auto_examples/datasets/plot_iris_dataset.html
 ---
 
 ## 📓 Notebook
+https://github.com/priya666rout-lab/codeAlpha_Iris-Flower-Classification-using-Machine-Learning/blob/main/IRIS.ipynb
 
-**IRIS.ipynb**
-
----
 
 ## 🚀 Repository
 
-https://github.com/priya666rout-lab/YOUR-REPOSITORY-NAME
+https://github.com/priya666rout-lab/codeAlpha_Iris-Flower-Classification-using-Machine-Learning
 
----
 
 ## 👩‍💻 Author
 
 **Priya Rout**
-
 B.Tech Computer Science & Engineering (Data Science)
-
 Passionate about Data Science, Machine Learning, and Data Analytics.
