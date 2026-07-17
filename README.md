@@ -20,9 +20,7 @@ This project demonstrates the development of a machine learning classification m
 
 **Dataset:** Iris Dataset
 
-**Source:** Scikit-learn
-
-https://scikit-learn.org/stable/auto_examples/datasets/plot_iris_dataset.html
+**Source:** https://www.kaggle.com/datasets/uciml/iris
 
 ---
 
